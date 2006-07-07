@@ -1,0 +1,12 @@
+This directory is for media which is needed but not required by each client.
+Required media needs to be kept in the repository of the client.
+
+Media MUST match the following criteria,
+ * Be in format required by clients, normally PNG or Ogre Meshs (working media should be stored elsewhere)
+ * Compressed, all PNG must be stored at maximum compression, all Ogre Meshs should be stored in compressed format
+
+Media is sorted into
+ * common        - Used by all clients
+ * common-2d     - Used by all 2d clients
+ * common-3d     - Used by all 3d clients
+ * <client name> - Used by a specific client

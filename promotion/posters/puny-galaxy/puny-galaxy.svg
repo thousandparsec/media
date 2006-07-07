@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1683.7795pt"
+   height="2383.937pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   version="1.0"
+   sodipodi:docbase="/home/tim/oss/tp.darcs/media/other/poster/puny-galaxy"
+   sodipodi:docname="puny-galaxy.svg"
+   inkscape:export-filename="tp-poster-small.png"
+   inkscape:export-xdpi="16"
+   inkscape:export-ydpi="16">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3717"
+       id="pattern7811"
+       patternTransform="translate(-535.8081,2303.616)" />
+    <linearGradient
+       id="linearGradient6913">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6915" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop6917" />
+    </linearGradient>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="1024"
+       height="768"
+       patternTransform="translate(-232.375,2105.018)"
+       id="pattern3717">
+      <image
+         y="0"
+         x="0"
+         xlink:href="background.jpg"
+         sodipodi:absref="background.jpg"
+         width="1024"
+         height="768"
+         id="image3714" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6913"
+       id="linearGradient6919"
+       x1="-549.21259"
+       y1="2510.4332"
+       x2="2675.1968"
+       y2="2510.4332"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.395601e-2,1.869435e-32,1.580577e-34,2.528736,-1538.457,-5125.78)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6913"
+       id="linearGradient6925"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.197802e-2,5.43771e-33,7.902884e-35,2.528736,2531.362,-7570.662)"
+       x1="-549.21259"
+       y1="2510.4332"
+       x2="2675.1968"
+       y2="2510.4332" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.26434152"
+     inkscape:cx="926.37966"
+     inkscape:cy="944.97343"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridspacingy="5mm"
+     gridspacingx="5mm"
+     gridoriginy="0mm"
+     gridoriginx="0mm"
+     gridtolerance="5mm"
+     inkscape:window-width="1024"
+     inkscape:window-height="724"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:url(#pattern7811);fill-opacity:1;display:inline"
+       id="rect6927"
+       width="2748.3149"
+       height="2458.8818"
+       x="-427.44882"
+       y="-116.75578" />
+    <rect
+       style="opacity:0.25;fill:#00000f;fill-opacity:1;display:inline"
+       id="rect11422"
+       width="2870.0789"
+       height="1665.3544"
+       x="-496.06299"
+       y="-102.75578" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;display:inline"
+       id="rect7925"
+       width="3206.6929"
+       height="726.37793"
+       x="-2462.5984"
+       y="2537.0081"
+       transform="scale(-1,1)" />
+    <image
+       style="display:inline"
+       id="image5790"
+       height="1746.8976"
+       width="2116.3396"
+       sodipodi:absref="galaxy.tiff"
+       xlink:href="galaxy.tiff"
+       x="-14"
+       y="-31.889637" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#00000f;fill-opacity:1"
+       id="rect6921"
+       width="3897.6377"
+       height="974.40948"
+       x="-726.37793"
+       y="1544.882"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient6919);fill-opacity:1"
+       id="rect6911"
+       width="141.73224"
+       height="3897.6377"
+       x="-1562.5985"
+       y="-726.37793"
+       transform="matrix(2.755319e-15,-1,1,8.325337e-19,0,0)" />
+    <image
+       id="image1347"
+       height="319.33856"
+       width="319.33856"
+       sodipodi:absref="logo.png"
+       xlink:href="logo.png"
+       x="70.866142"
+       y="2607.874" />
+    <text
+       xml:space="preserve"
+       style="font-size:202.02958679px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#00000f;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       x="477.61002"
+       y="2610.5039"
+       id="ThousandParsec"
+       inkscape:label="#text1358"
+       transform="scale(0.939295,1.064628)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="477.61002"
+         y="2610.5039"
+         id="tspan1362">Thousand Parsec</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:111.26383209px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#00000f;fill-opacity:0.94117647;stroke:none;font-family:URW Gothic L"
+       x="516.19995"
+       y="2911.7654"
+       id="text3746"
+       transform="scale(1.006534,0.993509)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3748"
+         x="516.19995"
+         y="2911.7654">www.thousandparsec.net</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:192.22492981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Domestic Manners"
+       x="-9.6091423"
+       y="183.73"
+       id="text5794"
+       transform="scale(0.832539,1.201144)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5796"
+         x="-9.6091423"
+         y="183.73"> Taking over the universe,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:161.69900513px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Domestic Manners"
+       x="38.975239"
+       y="1567.4303"
+       id="text5798"
+       transform="scale(0.994762,1.005266)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5800"
+         x="38.975239"
+         y="1567.4303">one puny galaxy at a time!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L"
+       x="52.315235"
+       y="1396.4116"
+       id="text6679"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6681"
+         x="52.315235"
+         y="1396.4116">Over 37,000 lines of code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       x="60.76181"
+       y="389.62961"
+       id="text6683"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6685"
+         x="60.76181"
+         y="389.62961">Two independently </tspan><tspan
+         sodipodi:role="line"
+         x="60.76181"
+         y="469.62961"
+         id="tspan8441">developed servers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       x="1456.9261"
+       y="1281.6598"
+       id="text6687"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6689"
+         x="1456.9261"
+         y="1281.6598">Libraries for Python,</tspan><tspan
+         sodipodi:role="line"
+         x="1456.9261"
+         y="1361.6598"
+         id="tspan8443">          C++ and PHP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       x="1297.4031"
+       y="411.54962"
+       id="text6691"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6693"
+         x="1297.4031"
+         y="411.54962">3 years of development</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       x="49.469204"
+       y="1059.7974"
+       id="text8445"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8447"
+         x="49.469204"
+         y="1059.7974">Windows, MacOS</tspan><tspan
+         sodipodi:role="line"
+         x="49.469204"
+         y="1139.7974"
+         id="tspan8449">and Linux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       x="1495.9855"
+       y="783.44354"
+       id="text8451"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8453"
+         x="1495.9855"
+         y="783.44354">100% Open Source</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:99.85205841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Domestic Manners"
+       x="233.05219"
+       y="2264.01"
+       id="text11412"
+       sodipodi:linespacing="100%"
+       transform="scale(1.020537,0.979876)"><tspan
+         sodipodi:role="line"
+         id="tspan11414"
+         x="233.05219"
+         y="2264.01">Help wanted!</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4090"
+       style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L"
+       transform="matrix(0.722729,0,0,1,117.2192,574.8016)"><flowRegion
+         id="flowRegion4092"><rect
+           id="rect4094"
+           width="1100.6458"
+           height="205.8414"
+           x="68.645615"
+           y="1675.6548"
+           style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L" /></flowRegion><flowPara
+         id="flowPara4102">Like all Open Source projects, Thousand Parsec is continually in need of new developers. </flowPara><flowPara
+         id="flowPara11498">Almost everyone, even those who can't code and contribute to Thousand Parsec!</flowPara><flowPara
+         id="flowPara4121" /><flowPara
+         id="flowPara4123">Of special need are:</flowPara><flowPara
+         id="flowPara4125">    * Artists, Who can produce either 3d or 2d artwork</flowPara><flowPara
+         id="flowPara4127">    * Coders,  Who can code in Python, C++ or PHP  </flowPara><flowPara
+         id="flowPara4129">    * Testers, Anyone who can file a bug report! </flowPara></flowRoot>    <g
+       id="g4076"
+       transform="translate(86.71788,284.7333)"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16">
+      <flowRoot
+         transform="matrix(0.722729,0,0,1,22.76178,-145.9944)"
+         style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L"
+         id="flowRoot12313"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12315"><rect
+             style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L"
+             y="1675.6548"
+             x="68.645615"
+             height="294.42407"
+             width="1065.2126"
+             id="rect12317" /></flowRegion><flowPara
+           id="flowPara12321">Thousand Parsec is a tool set for building space empire building games. (Often called 4 X games, eXplore, eXpand, eXterminate, eXploit.)</flowPara><flowPara
+           id="flowPara12323">It has been designed to allow different servers to run their own custom ruleset. If you wish to clone Stars! or VGA Planets you can. If you want to make a Star Trek or Star Wars themed universe you can.</flowPara><flowPara
+           id="flowPara12327">Thousand Parsec also supports long term games with players joining and leaving throughout the game. The whole game can even be modified during play including adding new technologies and even orders.</flowPara><flowPara
+           id="flowPara1453">Thousand Parsec currently has one fully playable mini-ruleset and another one well on the way.</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:99.85077667px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Domestic Manners"
+       x="366.44479"
+       y="1822.9683"
+       id="text5031"
+       sodipodi:linespacing="100%"
+       transform="scale(1.020537,0.979876)"><tspan
+         sodipodi:role="line"
+         id="tspan5033"
+         x="366.44479"
+         y="1822.9683">About</tspan></text>
+    <a
+       id="a11416"
+       transform="translate(1128.141,119.5867)"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16">
+      <image
+         y="1987.7954"
+         x="478.34647"
+         xlink:href="tpclient-pyogre.png"
+         sodipodi:absref="tpclient-pyogre.png"
+         width="372.04724"
+         height="279.0354"
+         id="image9368" />
+    </a>
+    <image
+       id="image10288"
+       height="199.311"
+       width="265.74799"
+       sodipodi:absref="pywx-client-knio.png"
+       xlink:href="pywx-client-knio.png"
+       x="1216.7245"
+       y="1859.3505"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16" />
+    <image
+       id="image10361"
+       height="194.88193"
+       width="223.57393"
+       sodipodi:absref="tpclient-pywx-starmap-tpserver-cpp.png"
+       xlink:href="tpclient-pywx-starmap-tpserver-cpp.png"
+       x="1757.6536"
+       y="1859.3505"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16" />
+    <image
+       id="image10479"
+       height="199.31104"
+       width="265.74802"
+       sodipodi:absref="tpclient-pywx-mainwindow.png"
+       xlink:href="tpclient-pywx-mainwindow.png"
+       x="1488.189"
+       y="1859.3505"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16" />
+    <image
+       id="image10522"
+       height="152.81395"
+       width="354.33072"
+       sodipodi:absref="tpserver-cpp-console.png"
+       xlink:href="tpserver-cpp-console.png"
+       x="1216.7244"
+       y="2107.3821"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       x="1340.4762"
+       y="2084.9575"
+       id="text10525"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16"><tspan
+         sodipodi:role="line"
+         id="tspan10527"
+         x="1340.4762"
+         y="2084.9575">tpclient-pywx - The most advanced client</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:URW Gothic L"
+       x="1322.7596"
+       y="2283.573"
+       id="text10529"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16"><tspan
+         sodipodi:role="line"
+         id="tspan10531"
+         x="1322.7596"
+         y="2283.573">tpserver-cpp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:URW Gothic L"
+       x="1665.9122"
+       y="2409.8525"
+       id="text10533"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16"><tspan
+         sodipodi:role="line"
+         id="tspan10535"
+         x="1665.9122"
+         y="2409.8525">       tpserver-pyogre -</tspan><tspan
+         sodipodi:role="line"
+         x="1665.9122"
+         y="2431.8525"
+         id="tspan10537">New Ogre3d based client</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:99.8509903px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Domestic Manners"
+       x="1265.3988"
+       y="1825.9067"
+       id="text5063"
+       sodipodi:linespacing="100%"
+       transform="scale(1.020537,0.979876)"><tspan
+         sodipodi:role="line"
+         id="tspan5065"
+         x="1265.3988"
+         y="1825.9067">Screenshots</tspan></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient6925);fill-opacity:1;display:inline"
+       id="rect6923"
+       width="70.866142"
+       height="3897.6377"
+       x="2519.2915"
+       y="-3171.2598"
+       transform="matrix(-5.166753e-15,1,-1,3.993378e-17,0,0)" />
+  </g>
+</svg>
