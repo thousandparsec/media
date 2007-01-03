@@ -1,5 +1,7 @@
 These files where originally from the VegaStrike project. http://vegastrike.sourceforge.net/
 
-Content under this directory is released under GNU Free Documentation License 1.2.
+Content under this directory is released under GNU General Public License
 
-You can find the completed text of this license here http://www.gnu.org/copyleft/fdl.html
+You can find the completed text of this license here http://www.gnu.org/licenses/gpl.txt
+
+The explosions have been processed with GIMP to add an alpha channel and the converted to MNG using ImageMagik
