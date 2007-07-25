@@ -7,19 +7,19 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1683.7795pt"
    height="2383.937pt"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.43"
+   inkscape:version="0.44"
    version="1.0"
-   sodipodi:docbase="/home/tim/oss/tp.darcs/media/other/poster/puny-galaxy"
+   sodipodi:docbase="/home/tim/oss/tp/media/promotion/posters/puny-galaxy"
    sodipodi:docname="puny-galaxy.svg"
-   inkscape:export-filename="tp-poster-small.png"
-   inkscape:export-xdpi="16"
-   inkscape:export-ydpi="16">
+   inkscape:export-filename="tp-poster-big2.png"
+   inkscape:export-xdpi="299.99783"
+   inkscape:export-ydpi="299.99783">
   <defs
      id="defs4">
     <pattern
@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26434152"
-     inkscape:cx="926.37966"
-     inkscape:cy="944.97343"
+     inkscape:zoom="0.17148103"
+     inkscape:cx="1052.3622"
+     inkscape:cy="2176.7377"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -92,7 +92,7 @@
      gridoriginy="0mm"
      gridoriginx="0mm"
      gridtolerance="5mm"
-     inkscape:window-width="1024"
+     inkscape:window-width="1014"
      inkscape:window-height="724"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -203,31 +203,31 @@
          y="2911.7654">www.thousandparsec.net</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:192.22492981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Domestic Manners"
-       x="-9.6091423"
-       y="183.73"
+       style="font-size:177.88673401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;stroke:none;font-family:Domestic Manners"
+       x="-10.95499"
+       y="196.55287"
        id="text5794"
-       transform="scale(0.832539,1.201144)"
+       transform="scale(0.912826,1.095499)"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5796"
-         x="-9.6091423"
-         y="183.73"> Taking over the universe,</tspan></text>
+         x="-10.95499"
+         y="196.55287"> Taking over the universe,</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:161.69900513px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Domestic Manners"
-       x="38.975239"
-       y="1567.4303"
+       style="font-size:157.24491882px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;stroke:none;font-family:Domestic Manners"
+       x="40.577744"
+       y="1524.2545"
        id="text5798"
-       transform="scale(0.994762,1.005266)"
+       transform="scale(0.96736,1.033741)"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5800"
-         x="38.975239"
-         y="1567.4303">one puny galaxy at a time!</tspan></text>
+         x="40.577744"
+         y="1524.2545">one puny galaxy at a time!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;stroke:none;font-family:URW Gothic L"
        x="52.315235"
        y="1396.4116"
        id="text6679"
@@ -235,7 +235,7 @@
          sodipodi:role="line"
          id="tspan6681"
          x="52.315235"
-         y="1396.4116">Over 37,000 lines of code</tspan></text>
+         y="1396.4116">Over 60,000 lines of code</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
@@ -268,7 +268,7 @@
          id="tspan8443">          C++ and PHP</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
        x="1297.4031"
        y="411.54962"
        id="text6691"
@@ -276,7 +276,7 @@
          sodipodi:role="line"
          id="tspan6693"
          x="1297.4031"
-         y="411.54962">3 years of development</tspan></text>
+         y="411.54962">4 years of development</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L"
@@ -318,15 +318,15 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4090"
-       style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L"
-       transform="matrix(0.722729,0,0,1,117.2192,574.8016)"><flowRegion
+       style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;font-family:URW Gothic L"
+       transform="matrix(0.911081,0,0,1,30.66099,574.8016)"><flowRegion
          id="flowRegion4092"><rect
            id="rect4094"
            width="1100.6458"
            height="205.8414"
            x="68.645615"
            y="1675.6548"
-           style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L" /></flowRegion><flowPara
+           style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;font-family:URW Gothic L" /></flowRegion><flowPara
          id="flowPara4102">Like all Open Source projects, Thousand Parsec is continually in need of new developers. </flowPara><flowPara
          id="flowPara11498">Almost everyone, even those who can't code and contribute to Thousand Parsec!</flowPara><flowPara
          id="flowPara4121" /><flowPara
@@ -335,16 +335,16 @@
          id="flowPara4127">    * Coders,  Who can code in Python, C++ or PHP  </flowPara><flowPara
          id="flowPara4129">    * Testers, Anyone who can file a bug report! </flowPara></flowRoot>    <g
        id="g4076"
-       transform="translate(86.71788,284.7333)"
+       transform="matrix(1.242437,0,0,1,-26.15408,284.7333)"
        inkscape:export-xdpi="16"
        inkscape:export-ydpi="16">
       <flowRoot
          transform="matrix(0.722729,0,0,1,22.76178,-145.9944)"
-         style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L"
+         style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;font-family:URW Gothic L"
          id="flowRoot12313"
          xml:space="preserve"><flowRegion
            id="flowRegion12315"><rect
-             style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L"
+             style="font-size:23.52568436px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;font-family:URW Gothic L"
              y="1675.6548"
              x="68.645615"
              height="294.42407"
@@ -352,7 +352,7 @@
              id="rect12317" /></flowRegion><flowPara
            id="flowPara12321">Thousand Parsec is a tool set for building space empire building games. (Often called 4 X games, eXplore, eXpand, eXterminate, eXploit.)</flowPara><flowPara
            id="flowPara12323">It has been designed to allow different servers to run their own custom ruleset. If you wish to clone Stars! or VGA Planets you can. If you want to make a Star Trek or Star Wars themed universe you can.</flowPara><flowPara
-           id="flowPara12327">Thousand Parsec also supports long term games with players joining and leaving throughout the game. The whole game can even be modified during play including adding new technologies and even orders.</flowPara><flowPara
+           id="flowPara12327">Thousand Parsec also supports long term games with players joining and leaving throughout the game. The whole game can even be modified during play including adding new technologies and even order types.</flowPara><flowPara
            id="flowPara1453">Thousand Parsec currently has one fully playable mini-ruleset and another one well on the way.</flowPara></flowRoot>    </g>
     <text
        xml:space="preserve"
