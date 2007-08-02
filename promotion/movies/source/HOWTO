@@ -1,0 +1,34 @@
+First, the comets, and the stars in which they fly are created in Maya.
+
+I started by creating a comet I was happy with, using a particle emitter.
+Once I was happy with it, I duplicated it, and connected it, and it’s
+duplicate onto a path. The path is two spirals that connect into each
+other. The two emitters are bound to the end of each end of the spiral, and
+set to move towards the center at the same rate.
+
+I then added the camera in, and played around with its movement until I was
+happy with it.
+
+I next created the stars for the background. These are in the same scene,
+and are painted on using the 2d brush tool with a mixture of the two star
+brushes. The nurb plane they’re painted on is displaced using a simple
+cloudmap (quickly thrown together in Photoshop using the clouds/difference
+clouds filter), and because of this, the stars are given some depth/height.
+
+Both are rendered off separately. (Particles are hardware renderer only,
+the stars, the software renderer.)
+
+Both are imported into AfterFX.
+
+I still wasn’t happy with the comet effects at this point, and added in
+some particle effects over the top of them.  To create the explosion when
+the two comets met, I had to use another piece of software called Particle
+Illusions – this made the process of creating a good looking explosion much
+more simple. I rendered this as a separate .avi file.
+
+All other tweaks, etc, should be contained within the AfterFX, and Maya
+files.
+
+Maya             - http://en.wikipedia.org/wiki/Maya_%28software%29
+AfterFX          - http://en.wikipedia.org/wiki/After_Effects
+ParticleIllusion - http://en.wikipedia.org/wiki/ParticleIllusion
